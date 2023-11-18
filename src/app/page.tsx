@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -8,7 +7,7 @@ export default function Home() {
                 className="bg-purple-500 hover:bg-purple-600 px-5 py-4 font-bold text-2xl rounded text-white"
                 href="/music"
             >
-                Let's listen to some music
+                Lets listen to some music
             </Link>
         </div>
     );
