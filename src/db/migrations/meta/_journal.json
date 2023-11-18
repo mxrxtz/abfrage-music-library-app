@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1700300811399,
+      "tag": "0000_demonic_speed",
+      "breakpoints": true
+    }
+  ]
+}
